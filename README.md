@@ -24,5 +24,5 @@ If mentioned, its recommended to use the specific version
 9. Fabric Docker Images - Use the script mentioned [here](https://raw.githubusercontent.com/anandbanik/fabric-workshop-prerequisite/main/vagrant/fabric.sh)
 
 ### Vagrant
-<p>You can also use Vagrant for this workshop. <br>
-Please refer to [here](./vagrant/README.md) for more details</p><br>
+You can also use Vagrant for this workshop. <br>
+Please refer to [here](./vagrant/README.md) for more details<br>
