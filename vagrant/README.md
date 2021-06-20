@@ -15,7 +15,7 @@ This directory contains the scripts necessary to bring up a simple development e
 ### Instructions
 1. To create and start the VM 
 ``` 
-    cd vagrant
+    cd <to vagrant folder>
     vagrant up
 ```
 
